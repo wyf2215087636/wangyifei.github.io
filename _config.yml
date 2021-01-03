@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Site settings
 title: Your Blog
 SEOTitle: 你的博客 | Your Blog
@@ -96,3 +97,6 @@ friends: [
         href: "https://caojiele.com"
     }
 ]
+=======
+theme: jekyll-theme-cayman
+>>>>>>> 8c52d5a5bd61d918bf2b6c3cb76230cbf6254249
